@@ -6,4 +6,9 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Siddhi3001/leetcode/tree/master/0007-reverse-integer) |
 | [0507-perfect-number](https://github.com/Siddhi3001/leetcode/tree/master/0507-perfect-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhi3001/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+## Array
+|  |
+| ------- |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhi3001/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 <!---LeetCode Topics End-->
