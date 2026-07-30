@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Siddhi3001/leetcode/tree/master/0027-remove-element) |
+| [0485-max-consecutive-ones](https://github.com/Siddhi3001/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Siddhi3001/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhi3001/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
