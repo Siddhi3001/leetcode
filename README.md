@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Siddhi3001/leetcode/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Siddhi3001/leetcode/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Siddhi3001/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhi3001/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Siddhi3001/leetcode/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Siddhi3001/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Siddhi3001/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -21,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [3945-digit-frequency-score](https://github.com/Siddhi3001/leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -31,5 +34,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
