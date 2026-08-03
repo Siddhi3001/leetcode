@@ -16,6 +16,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhi3001/leetcode/tree/master/0027-remove-element) |
+| [0217-contains-duplicate](https://github.com/Siddhi3001/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Siddhi3001/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Siddhi3001/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Siddhi3001/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [3945-digit-frequency-score](https://github.com/Siddhi3001/leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
@@ -39,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Siddhi3001/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
