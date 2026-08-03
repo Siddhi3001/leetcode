@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhi3001/leetcode/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Siddhi3001/leetcode/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhi3001/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Siddhi3001/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
