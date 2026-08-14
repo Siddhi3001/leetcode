@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Siddhi3001/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhi3001/leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Siddhi3001/leetcode/tree/master/0217-contains-duplicate) |
@@ -28,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Siddhi3001/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Siddhi3001/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [3945-digit-frequency-score](https://github.com/Siddhi3001/leetcode/tree/master/3945-digit-frequency-score) |
