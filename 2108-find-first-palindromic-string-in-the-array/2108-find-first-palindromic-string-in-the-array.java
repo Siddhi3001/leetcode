@@ -1,0 +1,26 @@
+class Solution {
+    public String firstPalindrome(String[] words) {
+
+        for(int i=0;i<words.length;i++)
+        {
+            if(isPalindrome(words[i]))
+            {
+                return words[i];
+
+                
+            }
+        }
+        return "";
+        
+    }
+   public static boolean isPalindrome(String str) {
+
+    String rev = "";
+
+    for (int i = str.length() - 1; i >= 0; i--) {
+        rev = rev + str.charAt(i);
+    }
+
+    return str.equals(rev);
+}
+}
