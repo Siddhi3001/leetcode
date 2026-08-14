@@ -25,6 +25,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Siddhi3001/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Siddhi3001/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Siddhi3001/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Siddhi3001/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siddhi3001/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 | [0027-remove-element](https://github.com/Siddhi3001/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Siddhi3001/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Siddhi3001/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Siddhi3001/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Siddhi3001/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
