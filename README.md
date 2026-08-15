@@ -26,6 +26,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Siddhi3001/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Siddhi3001/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhi3001/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Siddhi3001/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Siddhi3001/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Siddhi3001/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -53,6 +54,7 @@
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Siddhi3001/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhi3001/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Siddhi3001/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhi3001/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
