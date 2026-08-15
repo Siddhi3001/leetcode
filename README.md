@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Siddhi3001/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Siddhi3001/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/Siddhi3001/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Siddhi3001/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Siddhi3001/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -41,6 +42,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhi3001/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Siddhi3001/leetcode/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/Siddhi3001/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Siddhi3001/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -48,6 +50,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Siddhi3001/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/Siddhi3001/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
