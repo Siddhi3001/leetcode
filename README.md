@@ -17,6 +17,7 @@
 | [0001-two-sum](https://github.com/Siddhi3001/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhi3001/leetcode/tree/master/0027-remove-element) |
+| [0162-find-peak-element](https://github.com/Siddhi3001/leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Siddhi3001/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Siddhi3001/leetcode/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Siddhi3001/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
