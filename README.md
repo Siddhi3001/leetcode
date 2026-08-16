@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siddhi3001/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Siddhi3001/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhi3001/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -61,6 +62,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Siddhi3001/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Siddhi3001/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Siddhi3001/leetcode/tree/master/1051-height-checker) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Siddhi3001/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
