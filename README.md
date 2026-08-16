@@ -22,6 +22,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Siddhi3001/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Siddhi3001/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Siddhi3001/leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Siddhi3001/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhi3001/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Siddhi3001/leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Siddhi3001/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Siddhi3001/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Siddhi3001/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Siddhi3001/leetcode/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Siddhi3001/leetcode/tree/master/0905-sort-array-by-parity) |
